@@ -48,7 +48,7 @@
 
     <section class="banner">
         <div class="images">
-            <a href="#"><img src="/assets/images/banner.jpg" alt=""></a>
+            <a href="#"><img src="assets/images/banner.jpg" alt=""></a>
         </div>
     </section>
 
@@ -58,67 +58,67 @@
             <div class="row">
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/pizza1.png" alt="" class="card-img">
+                        <img src="./assets/images/pizza1.png" alt="" class="card-img">
                         <h1>Pizza</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/wings1.png" alt="" class="card-img">
+                        <img src="./assets/images/wings1.png" alt="" class="card-img">
                         <h1>Chicken Wings</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/pasta1.png" alt="" class="card-img">
+                        <img src="./assets/images/pasta1.png" alt="" class="card-img">
                         <h1>Pasta</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/cheesy1.png" alt="" class="card-img">
+                        <img src="./assets/images/cheesy1.png" alt="" class="card-img">
                         <h1>Cheesy Snacks</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/milktea1.png" alt="" class="card-img">
+                        <img src="./assets/images/milktea1.png" alt="" class="card-img">
                         <h1>Milktea</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/fruit1.png" alt="" class="card-img">
+                        <img src="./assets/images/fruit1.png" alt="" class="card-img">
                         <h1>Fruit Tea</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/lemonade1.png" alt="" class="card-img">
+                        <img src="./assets/images/lemonade1.png" alt="" class="card-img">
                         <h1>Lemonade</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/cheesecake1.png" alt="" class="card-img">
+                        <img src="./assets/images/cheesecake1.png" alt="" class="card-img">
                         <h1>Cheesecake Series</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/milkshake1.png" alt="" class="card-img">
+                        <img src="./assets/images/milkshake1.png" alt="" class="card-img">
                         <h1>Milk Shake</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/coffee1.png" alt="" class="card-img">
+                        <img src="./assets/images/coffee1.png" alt="" class="card-img">
                         <h1>Hot & Cold Coffee</h1>
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div class="card">
-                        <img src="/assets/images/frappewhite.png" alt="" class="card-img">
+                        <img src="./assets/images/frappewhite.png" alt="" class="card-img">
                         <h1>Frappe</h1>
                     </div>
                 </div>
